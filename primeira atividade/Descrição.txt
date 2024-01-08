@@ -1,0 +1,4 @@
+Primeiro programa Prolog
+Usando os fatos pai e mãe escreva em PROLOG, conforme exemplificado em aula, no mínimo, três gerações familiares (bisavós, avós, pais e filhos). Inclua também regras para as relações tio, primo e neto.
+
+Enviar uma imagem da árvore genealógica representada e o programa no arquivo familia.pl num arquivo zipado.
